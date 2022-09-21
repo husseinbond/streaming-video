@@ -35,7 +35,7 @@
         "vue-chartjs": "^3.5.0",
         "vue-progressbar": "^0.7.5",
         "vue2-datepicker": "^3.3.1",
-        "vuetify": "^2.2.13",
+        "vuetify": "^2.6.10",
         "vuetify-loader": "^1.4.3"
     }
 }
